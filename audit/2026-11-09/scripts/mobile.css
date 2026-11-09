@@ -1,0 +1,43 @@
+/* TERZI mobile fixes v20 */
+@media (max-width:1023px){
+ main .grid>*{min-width:0}
+ main .inline-flex.min-w-max.rounded-xl{display:flex;flex-wrap:wrap;min-width:0;max-width:100%;width:100%}
+ main .inline-flex.min-w-max.rounded-xl>*{flex:1 1 auto}
+ main .flex:has(>button.rounded-full){flex-wrap:wrap}
+ main .flex.items-start.justify-between>*:first-child{min-width:0}
+ main .flex.items-start.justify-between>span.whitespace-nowrap{white-space:normal;text-align:right}
+ main h1,main h2,main h3{overflow-wrap:anywhere}
+ main input[type=range]{width:100%;min-width:0}
+ main .flex.gap-3.overflow-x-auto.pb-2{flex-direction:column;overflow-x:visible}
+ main .flex.gap-3.overflow-x-auto.pb-2>*{width:100%;min-width:0;max-width:none}
+ main .grid-cols-\[170px_1fr_110px_56px\]{grid-template-columns:minmax(0,1.5fr) minmax(0,1fr) auto auto}
+ main .grid-cols-\[150px_1fr_150px\]{grid-template-columns:minmax(0,1fr) minmax(0,1.4fr) minmax(0,1fr)}
+ main .grid-cols-\[190px_1fr_1fr_120px\]{grid-template-columns:minmax(0,1.3fr) minmax(0,1fr) minmax(0,1fr) auto}
+ main .grid-cols-\[1fr_100px_110px_auto\]{grid-template-columns:minmax(0,1fr) minmax(0,80px) minmax(0,90px) auto}
+ main .grid-cols-\[1fr_120px_auto\]{grid-template-columns:minmax(0,1fr) minmax(0,100px) auto}
+ main .grid-cols-\[60px_1\.2fr_1fr_1\.2fr_44px\]{grid-template-columns:48px minmax(0,1.2fr) minmax(0,1fr) minmax(0,1.2fr) 40px}
+}
+@media (max-width:1023px) and (pointer:coarse){
+ main button,main a[role=button],main select,main input:not([type=checkbox]):not([type=radio]):not([type=range]){min-height:36px}
+ main input[type=checkbox],main input[type=radio]{width:20px;height:20px}
+ nav[aria-label="Розділи"] button{min-height:42px}
+}
+/* v21 iPhone/Safari */
+@media (pointer:coarse){
+ input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=color]),select,textarea{font-size:16px!important}
+ [role=dialog] button,[role=dialog] select,[role=dialog] input:not([type=checkbox]):not([type=radio]):not([type=range]){min-height:40px}
+ [role=dialog]>header button[aria-label="Закрити"]{min-width:40px;font-size:18px}
+ main button,main select{min-height:40px}
+}
+.fixed.inset-0.z-40:has(>[role=dialog]){z-index:60;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+@media (max-width:640px){
+ .fixed.inset-0.z-40:has(>[role=dialog]){padding:calc(10px + env(safe-area-inset-top,0px)) 8px calc(28px + env(safe-area-inset-bottom,0px))}
+ [role=dialog]{overflow:clip!important}
+ [role=dialog]>header{position:sticky;top:calc(-10px - env(safe-area-inset-top,0px));z-index:3}
+ [role=dialog]>.p-5{padding:14px}
+}
+@supports (height:100dvh){
+ .min-h-screen{min-height:100dvh}.h-screen{height:100dvh}.max-h-screen{max-height:100dvh}
+ .max-h-\[55vh\]{max-height:55dvh}.max-h-\[60vh\]{max-height:60dvh}.max-h-\[64vh\]{max-height:64dvh}.max-h-\[65vh\]{max-height:65dvh}.max-h-\[78vh\]{max-height:78dvh}.max-h-\[85vh\]{max-height:85dvh}.max-h-\[90vh\]{max-height:90dvh}.min-h-\[70vh\]{min-height:70dvh}
+}
+@media (hover:none){ .opacity-0.group-hover\:opacity-100{opacity:1} }

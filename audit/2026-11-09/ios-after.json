@@ -1,0 +1,1118 @@
+{
+ "iPhone SE": {
+  "tasks": {
+   "sw": 0,
+   "ctl": 2,
+   "zoom": 0,
+   "taps": 9,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calendar": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 20,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "notifications": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 4,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "ceo": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "dash": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 2,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "tower": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 13,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 3,
+   "errs": 0
+  },
+  "office": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "quality": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "pilot": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "inbox": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 1,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calls": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 16,
+   "t44": 1,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "crm": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "pipelines": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "funnel": {
+   "sw": 0,
+   "ctl": 2,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "clients": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "crmorders": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "measure": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calculators": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "estimates": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "prices": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "catalog": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "sites": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "orders": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 3,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "production": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "stock": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 6,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "finance": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "finmodel": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 6,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 12,
+   "errs": 0
+  },
+  "people": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "staff": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "marketing": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "settings": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 27,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "org": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 11,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "integrations": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 25,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "processes": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 2,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "refs": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "brand": {
+   "sw": 0,
+   "ctl": 56,
+   "zoom": 20,
+   "taps": 11,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 1,
+   "errs": 0
+  },
+  "system": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  }
+ },
+ "iPhone 16": {
+  "tasks": {
+   "sw": 0,
+   "ctl": 2,
+   "zoom": 0,
+   "taps": 9,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calendar": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 20,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "notifications": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 4,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "ceo": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "dash": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 2,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "tower": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 13,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 3,
+   "errs": 0
+  },
+  "office": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "quality": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "pilot": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "inbox": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 1,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calls": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 16,
+   "t44": 1,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "crm": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "pipelines": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "funnel": {
+   "sw": 0,
+   "ctl": 2,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "clients": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "crmorders": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "measure": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calculators": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "estimates": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "prices": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "catalog": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "sites": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "orders": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 3,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "production": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "stock": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 6,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "finance": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "finmodel": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 6,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 12,
+   "errs": 0
+  },
+  "people": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "staff": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "marketing": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "settings": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 27,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "org": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 11,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "integrations": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 25,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "processes": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 2,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "refs": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "brand": {
+   "sw": 0,
+   "ctl": 56,
+   "zoom": 20,
+   "taps": 11,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 1,
+   "errs": 0
+  },
+  "system": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  }
+ },
+ "iPhone 16 Pro Max": {
+  "tasks": {
+   "sw": 0,
+   "ctl": 2,
+   "zoom": 0,
+   "taps": 9,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calendar": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 20,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "notifications": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 4,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "ceo": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "dash": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 2,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "tower": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 13,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 3,
+   "errs": 0
+  },
+  "office": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "quality": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "pilot": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "inbox": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 1,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calls": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 16,
+   "t44": 1,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "crm": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "pipelines": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "funnel": {
+   "sw": 0,
+   "ctl": 2,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "clients": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "crmorders": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "measure": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "calculators": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "estimates": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "prices": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "catalog": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "sites": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 1,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "orders": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 3,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "production": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 5,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "stock": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 6,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "finance": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "finmodel": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 6,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 12,
+   "errs": 0
+  },
+  "people": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 7,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "staff": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "marketing": {
+   "sw": 0,
+   "ctl": 1,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "settings": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 27,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "org": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 11,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "integrations": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 25,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "processes": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 2,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "refs": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 0,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  },
+  "brand": {
+   "sw": 0,
+   "ctl": 56,
+   "zoom": 20,
+   "taps": 11,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 1,
+   "errs": 0
+  },
+  "system": {
+   "sw": 0,
+   "ctl": 0,
+   "zoom": 0,
+   "taps": 8,
+   "t44": 0,
+   "hoverOnly": 0,
+   "tiny": 0,
+   "errs": 0
+  }
+ }
+}
